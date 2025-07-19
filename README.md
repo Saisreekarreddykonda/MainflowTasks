@@ -1,5 +1,5 @@
-# 💼 Data Science & Machine Learning Projects
-🚀 Project Overview
+# 💼 Data Science & Machine Learning Projects 
+## 🚀 Project Overview 
 
 This project is a collection of applied data science tasks aimed at solving real-world problems through end-to-end data analysis and machine learning. It covers diverse domains including education, e-commerce, real estate, customer behavior, and sentiment analysis. Across five major tasks, I worked on data cleaning, feature engineering, exploratory data analysis (EDA), and model building using various machine learning techniques such as logistic regression, linear regression, K-Means clustering, and natural language processing (NLP). I used Python and libraries like Pandas, Scikit-learn, Matplotlib, Seaborn, and spaCy, all within a Jupyter/Google Colab environment.
 
@@ -82,7 +82,7 @@ Each task demonstrates practical knowledge in different areas of data science in
 
 ---
 
-## 📂 Folder Structure Suggestion (if you upload)
+## 📂 Folder Structure
 ```
 
 main\_flow\_tasks/
@@ -100,13 +100,14 @@ main\_flow\_tasks/
 ```
 
 ---
-💼 Contact
+
+## 💼 Contact
 Konda Sai Sreekar Reddy
 
 📧 Email: kondasai2011@gmail.com
 
 🐙 GitHub: @Saisreekarreddykonda
 
-🚩 Acknowledgment
+## 🚩 Acknowledgment
 Thanks to MainFlow Technologies pvt.ltd  and our mentors for their support and valuable guidance during this internship project.
 ```
